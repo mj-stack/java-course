@@ -1,0 +1,31 @@
+// Anser in true false
+
+Q1- Computers understand high level languages like Java, C.
+A- False
+
+Q2- An algorithm is a set of instructions to accomplish a task.
+A- True
+
+Q3- Computer is smart enough to igonre incorrect syntax.
+A- False
+
+Q4- Java was first released in 1992.
+A- False
+
+Q5- Java was named over a person who made good coffee.
+A- False
+
+Q6- ByteCode is platform independent.
+A- True
+
+Q7- JDK is a part of JRE.
+A- Flase
+
+Q8- It's optional to declare main method as public.
+A- False
+
+Q9- .class file contains machine code.
+A- Flase
+
+Q10- println add a new line at the end of the line
+A- True
