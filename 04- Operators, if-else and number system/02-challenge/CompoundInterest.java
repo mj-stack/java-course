@@ -12,7 +12,7 @@ public class CompoundInterest {
     System.out.print("Enter R: ");
     int r = input.nextInt();
 
-    int compoundInterest = (p * (1 + (r/100)) * t);
+    double compoundInterest = p * Math.pow((1+r/100), t);
     System.out.println("Compound interest: "+compoundInterest);
   }  
 }
