@@ -1,0 +1,31 @@
+// Answer in True/False
+
+Q1- In Java, && and || operators perform short-circuit evaluation.
+A- True
+
+Q2- In an if-else statement, the else block executes only when the if condition is false.
+A- True
+
+Q3- Java allows an if statement without the else part.
+A- True
+
+Q4- The ^ operator in java is used for exponentiation.
+A- False
+
+Q5- Unary minus operator can be used to negate the value of a variable in Java.
+A- True
+
+Q6- a += b is equivalent to a = a + b in Java.
+A- True
+
+Q7- In Java, the binary number system uses base 10.
+A- False
+
+Q8- The number 1010 in binary is equivalent to 10 in decimal.
+A- True
+
+Q9- & and | are logical operators in Java.
+A- False
+
+Q10- In java, a >> 2 shifts the binary bits of a to the left by 2 positions.
+A- False  
