@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Occurrences {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
-    int[] myArray = {1, 2, 2, 2, 3, 4, 4, 5, 5, 6};
+    int[] myArray = ArrayUtility.inputArray();
     System.out.print("Enter the number to check: ");
     int num = input.nextInt();
     checkOccurrences(myArray, num);
