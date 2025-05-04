@@ -1,4 +1,15 @@
 public class Driver {
+
+  static int minAgeForDriving = 18;
+
+  String name;
+  int age;
+  String dateOfLicense;
+
+  public boolean isAllowedToDrive() {
+    return this.age >= minAgeForDriving;
+  } 
+
   public static void main(String[] args) {
     // Car myCar = new Car();
     // myCar.addFuel(6);
@@ -10,8 +21,15 @@ public class Driver {
     // myCar.drive();
     // System.out.println(myCar.getCurrentFuelLevel());
 
-    Car swift = new Car();
-    swift.addFuel(6);
+    Car swift = new Car("Red");
+    Car thar = new Car();
+    System.out.println(thar.color);
+    // swift.addFuel(6);
     swift.start().drive();
+    System.out.println(swift.color);
+
+    // Driver myDriver = new Driver();
+    // myDriver.dateOfLicense = "1/Jan/2024";
+    // System.out.println(Driver.minAgeForDriving);
   }
 }
