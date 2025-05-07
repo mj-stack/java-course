@@ -9,11 +9,25 @@ public class ArrayUtility {
     int[] nums = new int[size];
     int i = 0;
     while (i < size) {
-      System.out.print("Please enter the element no " + (i+1) + ": ");
+      System.out.print("Please enter the element no " + (i + 1) + ": ");
       nums[i] = input.nextInt();
       i++;
     }
     return nums;
+  }
+
+  public static String[] inputStringArray() {
+    Scanner input = new Scanner(System.in);
+    System.out.print("Please enter the number of elements: ");
+    int size = input.nextInt();
+    String[] strings = new String[size];
+    int i = 0;
+    while (i < size) {
+      System.out.print("Please enter the element no " + (i + 1) + ": ");
+      strings[i] = input.next();
+      i++;
+    }
+    return strings;
   }
 
   public static int[][] input2DArray() {
@@ -28,7 +42,7 @@ public class ArrayUtility {
     while (i < rows) {
       int j = 0;
       while (j < columns) {
-        System.out.print("Please enter the row " + (i+1) + " column : " + (j + 1) + " : ");
+        System.out.print("Please enter the row " + (i + 1) + " column : " + (j + 1) + " : ");
         numArray[i][j] = input.nextInt();
         j++;
       }
