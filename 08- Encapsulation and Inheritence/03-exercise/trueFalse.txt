@@ -1,0 +1,31 @@
+// Answer in True/False
+
+Q1- Encapsulation in OOP principle that ensures an object's data can be changed by any method, without restrictions.
+A- False
+
+Q2- The import statement in Java can be used to bring a single class or an entire package into visibility.
+A- True
+
+Q3- The private access modifier means that the member is only accessible within its own class.
+A- True
+
+Q4- Setters are used to retrieve the value of a private variable from outside the class.
+A- False
+
+Q5- Inheritance in OOP can be used to create a general class that defines traits to be inherited by more specific subclass.
+A- True
+
+Q6- The Object class in Java has protected access by default.
+A- False
+
+Q7- If two objects are equal according to their equals() method, then their hashCode() methods must return different integers.
+A- False
+
+Q8- Inner classes are defined within the scope of a method and cannot exist independently of the method.
+A- False
+
+Q9- A static nested class can access the instance variables of its enclosing outer class.
+A- False
+
+Q10- Overriding the equals() method requires also overriding the hashCode() method to maintain consistency.
+A- True
