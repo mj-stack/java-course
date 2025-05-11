@@ -1,0 +1,31 @@
+// Answer in True/False
+
+Q1- Abstraction hides the internal implementation details and shows only the functionality to the users.
+A- True
+
+Q2- An abstract class must obtain at least one abstract method.
+A- False
+
+Q3- When you pass an object to a method, Java copies the reference to the object.
+A- True
+
+Q4- Overloaded methods must have different return types.
+A- False
+
+Q5- The "super" keyword can be used to access methods of the superclass that are hidden by the subclass.
+A- True
+
+Q6- Method overriding is used to change the default behaviour of a method in the superclass.
+A- True
+
+Q7- The final keyword in Java is used to define constants.
+A- True
+
+Q8- Java supports pass by reference for primitive types.
+A- False
+
+Q9- An interface in Java can contain instance fields(variables).
+A- False
+
+Q10- A subclass can override a protected method from its superclass with a public access modifier.
+A- True
