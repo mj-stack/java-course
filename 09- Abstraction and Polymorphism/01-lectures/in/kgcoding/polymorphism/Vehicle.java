@@ -15,7 +15,7 @@ public abstract class Vehicle {
         return this.noOfTyres;
     }
 
-    public void start() {
+    public final void start() {
         System.out.println("Vehicle is starting...");
     };
 }
