@@ -38,6 +38,8 @@ public class Calculator {
         catch (Throwable throwable) {
             System.out.println(throwable.getMessage());
             throw throwable;
+        } finally {
+            System.out.println("I am in finally");
         }
     }
 }
