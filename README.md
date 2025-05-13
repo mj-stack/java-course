@@ -145,5 +145,5 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-> ✍️ Maintained by [Mukul Joshi](https://github.com/your-username)  
+> ✍️ Maintained by [Mukul Joshi](https://github.com/mj-stack)  
 > 🌱 Learning & sharing one Java concept at a time.
