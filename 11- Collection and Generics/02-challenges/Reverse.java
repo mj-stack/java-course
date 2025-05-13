@@ -16,7 +16,7 @@ public class Reverse {
         System.out.println(myNums);
 
         System.out.println();
-        
+
         System.out.println("After reversing: ");
         Collections.reverse(favMovies);
         Collections.reverse(myNums);
