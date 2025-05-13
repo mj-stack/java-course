@@ -1,0 +1,31 @@
+// Answer in True/False
+
+Q1 - Variable arguments can be used to pass an arbitrary number of values to a method.
+A - True
+
+Q2 - Autoboxing is the process where primitive types are automatically converted into their corresponding wrapper class objects by the Java compiler.
+A - True
+
+Q3 - Every class in the Collections Library implements the Collection interface.
+A - False
+
+Q4 - Lists guarantee the order of insertion for the elements they contain.
+A - True
+
+Q5 - Sets in Java inherently maintain the elements in sorted order.
+A - False
+
+Q6 - In a Map, you can have multiple entries with the same value but not with the same key.
+A - True
+
+Q7 - Enums in Java can have constructors, methods, variables and can implements interfaces.
+A - True
+
+Q8 - With the diamond operator, you do not need to specify the type on the right-hand side of a statement when initializing an object.
+A - True
+
+Q9 - The List interface provides methods for inserting elements at a specific position in the list.
+A - True
+
+Q10 - Wrapper classed in Java, such as Integer and Double, can be extended like any other class.
+A - False
