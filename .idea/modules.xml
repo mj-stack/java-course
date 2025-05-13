@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01- Intro to java/01- Intro to java.iml" filepath="$PROJECT_DIR$/01- Intro to java/01- Intro to java.iml" />
       <module fileurl="file://$PROJECT_DIR$/02- Java basics/01-lecture/01-lecture.iml" filepath="$PROJECT_DIR$/02- Java basics/01-lecture/01-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11- Collection and Generics/01-lectures/01-lectures.iml" filepath="$PROJECT_DIR$/11- Collection and Generics/01-lectures/01-lectures.iml" />
       <module fileurl="file://$PROJECT_DIR$/02- Java basics/02-challenge/02-Subscribe/02-Subscribe.iml" filepath="$PROJECT_DIR$/02- Java basics/02-challenge/02-Subscribe/02-Subscribe.iml" />
       <module fileurl="file://$PROJECT_DIR$/03- Datatypes, variables and inputs/02-challenge/02-challenge.iml" filepath="$PROJECT_DIR$/03- Datatypes, variables and inputs/02-challenge/02-challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/02- Java basics/02-challenge/02-challenge2.iml" filepath="$PROJECT_DIR$/02- Java basics/02-challenge/02-challenge2.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/08- Encapsulation and Inheritence/08- Encapsulation and Inheritence.iml" filepath="$PROJECT_DIR$/08- Encapsulation and Inheritence/08- Encapsulation and Inheritence.iml" />
       <module fileurl="file://$PROJECT_DIR$/09- Abstraction and Polymorphism/09- Abstraction and Polymorphism.iml" filepath="$PROJECT_DIR$/09- Abstraction and Polymorphism/09- Abstraction and Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/10- Exception and File Handling/10- Exception and File Handling.iml" filepath="$PROJECT_DIR$/10- Exception and File Handling/10- Exception and File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11- Collection and Generics/11- Collection and Generics.iml" filepath="$PROJECT_DIR$/11- Collection and Generics/11- Collection and Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/01- Intro to java/FirstProject/FirstProject.iml" filepath="$PROJECT_DIR$/01- Intro to java/FirstProject/FirstProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-course.iml" filepath="$PROJECT_DIR$/.idea/java-course.iml" />
     </modules>
