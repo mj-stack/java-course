@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/08- Encapsulation and Inheritence/02-challenges/06-arrayOperations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11- Collection and Generics/02-challenges" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12- Multithreading and Executer Service/01-lectures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12- Multithreading and Executer Service/02-challenges" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
