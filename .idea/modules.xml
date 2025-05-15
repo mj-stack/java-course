@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01- Intro to java/01- Intro to java.iml" filepath="$PROJECT_DIR$/01- Intro to java/01- Intro to java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02- Java basics/01-lecture/01-lecture.iml" filepath="$PROJECT_DIR$/02- Java basics/01-lecture/01-lecture.iml" />
-      <module fileurl="file://$PROJECT_DIR$/11- Collection and Generics/01-lectures/01-lectures.iml" filepath="$PROJECT_DIR$/11- Collection and Generics/01-lectures/01-lectures.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02- Java basics/02-challenge/02-Subscribe/02-Subscribe.iml" filepath="$PROJECT_DIR$/02- Java basics/02-challenge/02-Subscribe/02-Subscribe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03- Datatypes, variables and inputs/02-challenge/02-challenge.iml" filepath="$PROJECT_DIR$/03- Datatypes, variables and inputs/02-challenge/02-challenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02- Java basics/02-challenge/02-challenge2.iml" filepath="$PROJECT_DIR$/02- Java basics/02-challenge/02-challenge2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/06- Class and Object/02-challenge/02-challenge3.iml" filepath="$PROJECT_DIR$/06- Class and Object/02-challenge/02-challenge3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03- Datatypes, variables and inputs/03- Datatypes, variables and inputs.iml" filepath="$PROJECT_DIR$/03- Datatypes, variables and inputs/03- Datatypes, variables and inputs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04- Operators, if-else and number system/04- Operators, if-else and number system.iml" filepath="$PROJECT_DIR$/04- Operators, if-else and number system/04- Operators, if-else and number system.iml" />
-      <module fileurl="file://$PROJECT_DIR$/05- While loops, methods, and arrays/05- While loops, methods, and arrays.iml" filepath="$PROJECT_DIR$/05- While loops, methods, and arrays/05- While loops, methods, and arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/06- Class and Object/06- Class and Object.iml" filepath="$PROJECT_DIR$/06- Class and Object/06- Class and Object.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07- Control statements, Math and Strings/07- Control statements, Math and Strings.iml" filepath="$PROJECT_DIR$/07- Control statements, Math and Strings/07- Control statements, Math and Strings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/08- Encapsulation and Inheritence/08- Encapsulation and Inheritence.iml" filepath="$PROJECT_DIR$/08- Encapsulation and Inheritence/08- Encapsulation and Inheritence.iml" />
-      <module fileurl="file://$PROJECT_DIR$/09- Abstraction and Polymorphism/09- Abstraction and Polymorphism.iml" filepath="$PROJECT_DIR$/09- Abstraction and Polymorphism/09- Abstraction and Polymorphism.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10- Exception and File Handling/10- Exception and File Handling.iml" filepath="$PROJECT_DIR$/10- Exception and File Handling/10- Exception and File Handling.iml" />
-      <module fileurl="file://$PROJECT_DIR$/11- Collection and Generics/11- Collection and Generics.iml" filepath="$PROJECT_DIR$/11- Collection and Generics/11- Collection and Generics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01- Intro to java/FirstProject/FirstProject.iml" filepath="$PROJECT_DIR$/01- Intro to java/FirstProject/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 - Intro to java/01 - Intro to java.iml" filepath="$PROJECT_DIR$/01 - Intro to java/01 - Intro to java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Java basics/01-lecture/01-lecture.iml" filepath="$PROJECT_DIR$/02 - Java basics/01-lecture/01-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Collection and Generics/01-lectures/01-lectures.iml" filepath="$PROJECT_DIR$/11 - Collection and Generics/01-lectures/01-lectures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Java basics/02-challenge/02-Subscribe/02-Subscribe.iml" filepath="$PROJECT_DIR$/02 - Java basics/02-challenge/02-Subscribe/02-Subscribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - Datatypes, variables and inputs/02-challenge/02-challenge.iml" filepath="$PROJECT_DIR$/03 - Datatypes, variables and inputs/02-challenge/02-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Java basics/02-challenge/02-challenge2.iml" filepath="$PROJECT_DIR$/02 - Java basics/02-challenge/02-challenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - Class and Object/02-challenge/02-challenge3.iml" filepath="$PROJECT_DIR$/06 - Class and Object/02-challenge/02-challenge3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - Datatypes, variables and inputs/03 - Datatypes, variables and inputs.iml" filepath="$PROJECT_DIR$/03 - Datatypes, variables and inputs/03 - Datatypes, variables and inputs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - Operators, if-else and number system/04 - Operators, if-else and number system.iml" filepath="$PROJECT_DIR$/04 - Operators, if-else and number system/04 - Operators, if-else and number system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - While loops, methods, and arrays/05 - While loops, methods, and arrays.iml" filepath="$PROJECT_DIR$/05 - While loops, methods, and arrays/05 - While loops, methods, and arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - Class and Object/06 - Class and Object.iml" filepath="$PROJECT_DIR$/06 - Class and Object/06 - Class and Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Control statements, Math and Strings/07 - Control statements, Math and Strings.iml" filepath="$PROJECT_DIR$/07 - Control statements, Math and Strings/07 - Control statements, Math and Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - Encapsulation and Inheritance/08- Encapsulation and Inheritence.iml" filepath="$PROJECT_DIR$/08 - Encapsulation and Inheritance/08- Encapsulation and Inheritence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - Abstraction and Polymorphism/09 - Abstraction and Polymorphism.iml" filepath="$PROJECT_DIR$/09 - Abstraction and Polymorphism/09 - Abstraction and Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - Exception and File Handling/10 - Exception and File Handling.iml" filepath="$PROJECT_DIR$/10 - Exception and File Handling/10 - Exception and File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Collection and Generics/11- Collection and Generics.iml" filepath="$PROJECT_DIR$/11 - Collection and Generics/11- Collection and Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 - Intro to java/FirstProject/FirstProject.iml" filepath="$PROJECT_DIR$/01 - Intro to java/FirstProject/FirstProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-course.iml" filepath="$PROJECT_DIR$/.idea/java-course.iml" />
     </modules>
   </component>
