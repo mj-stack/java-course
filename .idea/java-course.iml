@@ -3,17 +3,17 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/01-lectures/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02-challenges/01-simpleApplication" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02-challenges/01-simpleApplication/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02-challenges/02-bankingApplication" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02-challenges/03-employeeApplication" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02-challenges/04-libraryApplication" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02-challenges/05-personsApplication" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02-challenges/06-arrayOperations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/11 - Collection and Generics/02-challenges" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12 - Multithreading and Executer Service/01-lectures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12 - Multithreading and Executer Service/02-challenges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/01 - lectures/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02 - challenges/01-simpleApplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02 - challenges/01-simpleApplication/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02 - challenges/02-bankingApplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02 - challenges/03-employeeApplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02 - challenges/04-libraryApplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02 - challenges/05-personsApplication" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 - Encapsulation and Inheritance/02 - challenges/06-arrayOperations" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13 - Functional Programming/01- Lectures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13 - Functional Programming/02- Challenges" isTestSource="false" />
     </content>
