@@ -14,8 +14,8 @@
       <sourceFolder url="file://$MODULE_DIR$/11 - Collection and Generics/02-challenges" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12 - Multithreading and Executer Service/01-lectures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12 - Multithreading and Executer Service/02-challenges" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/13 - Functional Programming/01 - Lectures" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/13 - Functional Programming/02 - Challenges " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13 - Functional Programming/01- Lectures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13 - Functional Programming/02- Challenges" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
