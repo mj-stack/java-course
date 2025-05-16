@@ -1,0 +1,31 @@
+// Answer in True/False
+
+Q1 - Functions can't be assigned to variables, passed as arguments, or returned from other functions.
+A - False
+
+Q2 - A lambda expression in Java can be used to implement any interface, regardless of the number of abstract methods.
+A - False
+
+Q3 - A Java stream represents a sequence of elements and supports various methods which can be pipelined to produce the desired result.
+A - True
+
+Q4 - The filter method in streams is a terminal operation that returns a boolean value.
+A - False
+
+Q5 - A functional interface in Java is an interface with exactly one abstract method.
+A - True
+
+Q6 - Method references in Java can only refer to static methods.
+A - False
+
+Q7 - The Optional class in Java is used to avoid NullPointerException.
+A - True
+
+Q8 - Intermediate operations on streams are executed immediately and are always followed by terminal operations.
+A - False
+
+Q9 - The max and min operations on streams return an Optional describing the maximum and minimum element.
+A - True
+
+Q10 - The sorted operation in streams is a terminal operation, and it sorts the elements of the stream in their natural order.
+A - False
